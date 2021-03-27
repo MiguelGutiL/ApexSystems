@@ -2,7 +2,7 @@
 ApexSystems
 
 
-This project was made with Testcafe with POM, in Visual Studio Code, the structure of the project is as follows:
+This project was made with Testcafe and POM, in Visual Studio Code, the structure of the project is as follows:
 
 Data: The ConstantsPuppy.json file is located in this folder, it contains the names of all the puppies that are on the adoption page
 
